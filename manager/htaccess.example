@@ -1,0 +1,7 @@
+RewriteEngine ON
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^yourhostname.example.net$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/word.css$ /aldrovandi.php?type=word&id=$1 [L]
+RewriteRule ^(.*)/excel.css$ /aldrovandi.php?type=excel&id=$1 [L]

@@ -1,0 +1,12 @@
+<?php
+    //DB Settings
+    $config["DB_USERNAME"] = "";
+    $config["DB_PASSWORD"] = "";
+    $config["DB_NAME"] = "";
+
+    //URL to your  Bugcatcher
+    $config["BUGCATCHER_URL"] = "http://lolwebbugs.example.net/";
+
+    //Address to send alerts from
+    $config["ALERT_ADDR"] = "alerts@example.net"
+?>
