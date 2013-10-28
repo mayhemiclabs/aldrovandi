@@ -5,7 +5,7 @@ Aldrovandi Web Bug System
 
 Aldrovandi automates the generation and collection of Word documents that contain WebBugs
 
-This is pre-alpha software. Use at your own risk.
+This is pre-alpha software: Unfiltered, Uncut, Undocumented. Use at your own risk.
 
 ==========
 Copyright (c) 2013, Ben Jackson, <bbj@mayhemiclabs.com>
